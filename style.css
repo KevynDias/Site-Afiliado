@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+
+.inline{
+    display: inline-block;
+    height: 292px;
+    border-radius: 5px;
+}
+.texto{
+    color: black;
+    text-align: center;
+    margin-top: 10px;
+}
+#nav{
+    margin-bottom: 0;
+}
+div{
+    max-width: 100%;
+    margin: 10px 10px;
+}
+.imagem{
+    width: 160px;
+    height: 160px;
+    border-radius: 5%;
+    margin-left: 5px;
+    margin-top: 4px;
+}
+h3{
+    color: white;
+}
+h4{
+    color:rgb(0, 255, 13);
+    background: rgb(255, 255, 255);
+    display: inline;
+    padding: 4px;
+    font-size: 12px;;
+    border-radius: 2px;
+    font-size: 14px;
+}
+.comprar{
+    text-decoration: none;
+    background-color: green;
+    color: rgb(0, 0, 0);
+    margin-left: 3px;
+    padding: 10px;
+    border-radius: 5px;
+    
+}
